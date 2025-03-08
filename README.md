@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YermIm&layout=compact)
+
+https://github-readme-stats.vercel.app/api?username=YermIm)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
