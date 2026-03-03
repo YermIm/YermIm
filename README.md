@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
+  <a href="https://github.com/YermIm">
     <img src="https://render.gitanimals.org/farms/YermIm" width="48%" />
   </a><a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
     <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="48%" />
