@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/YermIm" />
-</a>
+<div align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/YermIm" width="45%" alt="farm" />
+  </a>
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="45%" alt="guild" />
+  </a>
+</div>
