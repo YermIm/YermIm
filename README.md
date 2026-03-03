@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/farms/YermIm" width="45%" alt="farm" />
-  </a>
-  <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="45%" alt="guild" />
+  <a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
+    <img src="https://render.gitanimals.org/farms/YermIm" width="48%" />
+  </a><a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
+    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="48%" />
   </a>
 </div>
